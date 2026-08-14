@@ -11,7 +11,7 @@ permalink: /publications/
 
 - **VersaPSE: Versatile Password Strength Evaluation Using Continual Learning**  
   **Yifei Zhang**<sup>\*</sup>, Zhenduo Hou<sup>\*†</sup>, Ding Wang.  
-  In Proc. RAID 2026 (**CCF-B**), Accepted, to appear.  
+  In Proc. RAID 2026 (**CCF-B**), acceptance rate 58/350≈16.5%. [[PDF]]({{ site.url }}/download/publications/VersaPSE_raid26_camera_ready.pdf) [[code]](https://github.com/FeliceRivarez/VersaPSE_code)
 
 - **EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning**  
   **Yifei Zhang**, Zhenduo Hou<sup>†</sup>, Yunkai Zou, Zhen Li, Ding Wang.  
